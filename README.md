@@ -8,6 +8,8 @@ Image API: Lorem Picsum
 
 The project also includes a pagination feature for the gallery and a search input to navigate pages.
 
+![image](https://github.com/kriscodes07/html-css-js-project-api-project/blob/aa6687c956101c6ff7b905bb15ae81dfd4e4203e/Screenshot%202026-03-06%20231917.png)
+
 
 ![image](https://github.com/kriscodes07/html-css-js-project-api-project/blob/1cc37aa3186a66c1b4fab6f4bf800151fdb2046f/Screenshot%202026-03-06%20231858.png)
 
